@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color: aliceblue;
+    border: black;
+}
+
+.subheader{
+    background-color: cornflowerblue;
+}
+
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.socialMedia{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p,h2{
+    text-align: center;
+}
